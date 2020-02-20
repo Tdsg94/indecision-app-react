@@ -3,7 +3,7 @@ console.log("App.js is running")
 var template = (
   <div>
     <h1>Indecision App</h1>
-    <p>This is some info</p>
+    <p>This is some info </p>
   </div>
 );
 
